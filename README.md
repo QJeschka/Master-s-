@@ -1,3 +1,3 @@
-# Master-s-
+# MasterBI
 I was told to make this
 Hello World?
